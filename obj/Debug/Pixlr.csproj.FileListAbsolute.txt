@@ -1,0 +1,10 @@
+C:\Users\Robin\source\repos\Pixlr\bin\Debug\Pixlr.exe.config
+C:\Users\Robin\source\repos\Pixlr\bin\Debug\Pixlr.exe
+C:\Users\Robin\source\repos\Pixlr\bin\Debug\Pixlr.pdb
+C:\Users\Robin\source\repos\Pixlr\obj\Debug\Pixlr.csproj.AssemblyReference.cache
+C:\Users\Robin\source\repos\Pixlr\obj\Debug\Pixlr.Properties.Resources.resources
+C:\Users\Robin\source\repos\Pixlr\obj\Debug\Pixlr.csproj.GenerateResource.cache
+C:\Users\Robin\source\repos\Pixlr\obj\Debug\Pixlr.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Pixlr\obj\Debug\Pixlr.exe
+C:\Users\Robin\source\repos\Pixlr\obj\Debug\Pixlr.pdb
+C:\Users\Robin\source\repos\Pixlr\obj\Debug\Pixlr.Window.resources
